@@ -29,7 +29,7 @@
 
 - ☕ Developing a **Personal Inventory System** using Java and PostgreSQL.
 - 🌐 Working on **Web Systems** and **IoT** integration for environmental monitoring.
-- 🐧 Daily user of **Linux Mint** and exploring Docker for server environments.
+- 🐧 Daily user of **Linux** and exploring Docker for server environments.
 
 <br>
 
